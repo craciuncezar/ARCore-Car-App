@@ -1,0 +1,2015 @@
+fileFormatVersion: 2
+guid: 792610908c78ea94699558101be6e80b
+timeCreated: 1524678922
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bmw_caliperlf_013
+    100002: bmw_caliperlr_013
+    100004: bmw_caliperrf_013
+    100006: bmw_caliperrr_013
+    100008: bmw_m6_13_wheellf
+    100010: bmw_m6_13_wheellf001
+    100012: bmw_m6_13_wheellf002
+    100014: bmw_m6_13_wheellf003
+    100016: bmw_rotorlf_013
+    100018: bmw_rotorlr_013
+    100020: bmw_rotorrf_013
+    100022: bmw_rotorrr_013
+    100024: bumperf_a
+    100026: bumperfbadge_a
+    100028: bumperfhoneycomb_a
+    100030: bumperframef
+    100032: bumperr_a
+    100034: bumperrsidemarkers_a
+    100036: centerconsolebezels_a
+    100038: centerstackbezels_a
+    100040: controlarmlf_a
+    100042: controlarmlr_a
+    100044: controlarmrf_a
+    100046: controlarmrr_a
+    100048: dashpad_a
+    100050: dashstructure_a
+    100052: dl
+    100054: doorcardlf_a
+    100056: doorcardlf_a001
+    100058: doorhandlelf_a
+    100060: doorhandlelf_a001
+    100062: doorjamblf_a
+    100064: doorjamblf_a001
+    100066: doorsill_a
+    100068: dr
+    100070: engine_a
+    100072: exhaust_a
+    100074: f
+    100076: f1
+    100078: fenders_a
+    100080: fendersbadge_a
+    100082: fenderssidemarkers_a
+    100084: floor_a
+    100086: gaugecluster_a
+    100088: glassctl_a
+    100090: glassf_a
+    100092: glassfint_a
+    100094: glasslf_a
+    100096: glasslfint_a
+    100098: glasslhl_a
+    100100: glasslr_a
+    100102: glasslrint_a
+    100104: glassltl_a
+    100106: glassr_a
+    100108: glassrf_a
+    100110: glassrfint_a
+    100112: glassrhl_a
+    100114: glassrint_a
+    100116: glassrr_a
+    100118: glassrrint_a
+    100120: glassrtl_a
+    100122: headlightl_a
+    100124: headlightlbulbs_a
+    100126: headlightr_a
+    100128: headlightrbulbs_a
+    100130: hood_a
+    100132: hoodliner_a__slod
+    100134: //RootNode
+    100136: mirrorbasel_a
+    100138: mirrorbaser_a
+    100140: Object001
+    100142: Object002
+    100144: overheadconsole_a
+    100146: parcelshelf_a
+    100148: pedals_a
+    100150: pillartrim_a
+    100152: plateeu_a
+    100154: s
+    100156: s1
+    100158: seatbeltl_a
+    100160: seatl_a
+    100162: speakerdoorlf_a
+    100164: speakerdoorlf_a001
+    100166: speakers_a
+    100168: steeing
+    100170: t
+    100172: t1
+    100174: taillightc_a
+    100176: taillightcbulbs_a
+    100178: taillightchmsl_a
+    100180: taillightl_a
+    100182: taillightr_a
+    100184: trunk_a
+    100186: trunkbadge_a
+    100188: trunkbay_a__slod
+    100190: trunkliner_a__slod
+    100192: undercarriage
+    100194: visors_a
+    100196: wheel_fl
+    100198: wheel_fr
+    100200: wheel_rl
+    100202: wheel_rr
+    100204: wing_a
+    100206: wingmirrorl_a
+    100208: wingmirrorr_a
+    100210: wipers_a
+    400000: bmw_caliperlf_013
+    400002: bmw_caliperlr_013
+    400004: bmw_caliperrf_013
+    400006: bmw_caliperrr_013
+    400008: bmw_m6_13_wheellf
+    400010: bmw_m6_13_wheellf001
+    400012: bmw_m6_13_wheellf002
+    400014: bmw_m6_13_wheellf003
+    400016: bmw_rotorlf_013
+    400018: bmw_rotorlr_013
+    400020: bmw_rotorrf_013
+    400022: bmw_rotorrr_013
+    400024: bumperf_a
+    400026: bumperfbadge_a
+    400028: bumperfhoneycomb_a
+    400030: bumperframef
+    400032: bumperr_a
+    400034: bumperrsidemarkers_a
+    400036: centerconsolebezels_a
+    400038: centerstackbezels_a
+    400040: controlarmlf_a
+    400042: controlarmlr_a
+    400044: controlarmrf_a
+    400046: controlarmrr_a
+    400048: dashpad_a
+    400050: dashstructure_a
+    400052: dl
+    400054: doorcardlf_a
+    400056: doorcardlf_a001
+    400058: doorhandlelf_a
+    400060: doorhandlelf_a001
+    400062: doorjamblf_a
+    400064: doorjamblf_a001
+    400066: doorsill_a
+    400068: dr
+    400070: engine_a
+    400072: exhaust_a
+    400074: f
+    400076: f1
+    400078: fenders_a
+    400080: fendersbadge_a
+    400082: fenderssidemarkers_a
+    400084: floor_a
+    400086: gaugecluster_a
+    400088: glassctl_a
+    400090: glassf_a
+    400092: glassfint_a
+    400094: glasslf_a
+    400096: glasslfint_a
+    400098: glasslhl_a
+    400100: glasslr_a
+    400102: glasslrint_a
+    400104: glassltl_a
+    400106: glassr_a
+    400108: glassrf_a
+    400110: glassrfint_a
+    400112: glassrhl_a
+    400114: glassrint_a
+    400116: glassrr_a
+    400118: glassrrint_a
+    400120: glassrtl_a
+    400122: headlightl_a
+    400124: headlightlbulbs_a
+    400126: headlightr_a
+    400128: headlightrbulbs_a
+    400130: hood_a
+    400132: hoodliner_a__slod
+    400134: //RootNode
+    400136: mirrorbasel_a
+    400138: mirrorbaser_a
+    400140: Object001
+    400142: Object002
+    400144: overheadconsole_a
+    400146: parcelshelf_a
+    400148: pedals_a
+    400150: pillartrim_a
+    400152: plateeu_a
+    400154: s
+    400156: s1
+    400158: seatbeltl_a
+    400160: seatl_a
+    400162: speakerdoorlf_a
+    400164: speakerdoorlf_a001
+    400166: speakers_a
+    400168: steeing
+    400170: t
+    400172: t1
+    400174: taillightc_a
+    400176: taillightcbulbs_a
+    400178: taillightchmsl_a
+    400180: taillightl_a
+    400182: taillightr_a
+    400184: trunk_a
+    400186: trunkbadge_a
+    400188: trunkbay_a__slod
+    400190: trunkliner_a__slod
+    400192: undercarriage
+    400194: visors_a
+    400196: wheel_fl
+    400198: wheel_fr
+    400200: wheel_rl
+    400202: wheel_rr
+    400204: wing_a
+    400206: wingmirrorl_a
+    400208: wingmirrorr_a
+    400210: wipers_a
+    2100000: carpaint_E23B0EFF
+    2100002: blkplastic_mgl
+    2100004: rubbertrim
+    2100006: carbonfiber_001
+    2100008: frame
+    2100010: backfacingGeo
+    2100012: undercarriage_001
+    2100014: BMW_badge_001
+    2100016: BMW_emblem_019
+    2100018: chrome
+    2100020: valve_cap
+    2100022: chrome_grille_a_8C8D8DFF
+    2100024: rubber_embossed_NML
+    2100026: blkplastic_lgl
+    2100028: Steel_010101FF
+    2100030: Radiator_Grill
+    2100032: carpaint_nocc
+    2100034: zeroBlack_010101FF
+    2100036: gls_patternCH1_003_4D000099
+    2100038: gls_patternCH1_009_FFFFFF99
+    2100040: gls_lightbulb_custom_L
+    2100042: LBK_smoothChrome_custom_L
+    2100044: LBK_smoothChrome_custom_01
+    2100046: BMW_emblem_002_shifterAssy_a
+    2100048: carbonfiber_001_CenterConsoleStructure_a
+    2100050: digitalGauge_shifterAssy_a
+    2100052: carpet_004_CenterConsoleStructure_a
+    2100054: metalPainted_alpha_PTN_grillDiamond_004_CenterConsoleStructure_a
+    2100056: stitch_009_CenterConsoleStructure_a
+    2100058: metalPainted_alpha_BMW_Shifter_007_shifterAssy_a
+    2100060: 'Material #75'
+    2100062: blkLeather_smooth_MGL_CenterConsoleStructure_a
+    2100064: plastic_smooth_colored_CenterConsoleStructure_a
+    2100066: plastic_smooth_colored_customs_CenterConsoleStructure_a
+    2100068: blkPlastic_SGL_shifterAssy_a
+    2100070: blkleather_mgl_shifterAssy_a
+    2100072: aluminum_polishedsatin
+    2100074: symbols
+    2100076: zeroBlack_CenterConsoleStructure_a
+    2100078: backfacingGeo_shifterAssy_a
+    2100080: digitalGauge
+    2100082: blkPlastic_SGL
+    2100084: symbols_embossed
+    2100086: stitch_009
+    2100088: zeroBlack_vents_a
+    2100090: gauge_needle_002_needles_a
+    2100092: 'Material #967'
+    2100094: plastic_smooth_colored_030303FF
+    2100096: blkLeather_smooth_MGL
+    2100098: blkplastic_lgl_dashStructureBezels_a
+    2100100: blkPlastic_textured_009_steeringColumn_a
+    2100102: suede_002
+    2100104: aluminum_polishedSatin_dashStructureBezels_a
+    2100106: chrome_gaugePod_a
+    2100108: gls_clear_gaugePod_a
+    2100110: symbols_dashStructureBezels_a
+    2100112: mirrorleft
+    2100114: gls_window_interior
+    2100116: metalPainted_alpha_PTN_grillHexagon_001
+    2100118: plastic_smooth_colored_010101FF
+    2100120: zeroBlack
+    2100122: blkplastic_mgl_doorLF_a
+    2100124: steel
+    2100126: backfacingGeo_doorLF_a
+    2100128: screwPainted_012
+    2100130: metalPainted_001_0B0B0BFF
+    2100132: steel_000000FF
+    2100134: gls_window
+    2100136: BMW_emblem_021
+    2100138: blkPlastic_textured_009
+    2100140: aluminum_noise_001
+    2100142: blkPlastic_NGL_010101FF
+    2100144: metalPainted_001_010101FF
+    2100146: screw_003
+    2100148: symbols_bmw_m6_13_doortags_001_diff
+    2100150: metalPainted_alpha_PTN_grillHexagon_001_speakerDoorRF_a
+    2100152: mirrorRight
+    2100154: gls_edge
+    2100156: blkLeather_smooth_LGL_doorCardRF_a
+    2100158: frame_000000FF
+    2100160: BMW_emblem_020
+    2100162: gls_clear
+    2100164: LBK_standardCH1_003_custom_turn
+    2100166: BMW_emblem_001
+    2100168: carpet_004
+    2100170: blkLeather_bump_MGL
+    2100172: blkLeather_MGL
+    2100174: blkpaint_lgl
+    2100176: gauge_001_bmw_m6_13_gauges_diff
+    2100178: blackGlass
+    2100180: chrome_noise_001
+    2100182: gls_clear_FFB25FFF
+    2100184: gls_red_FF0B0099
+    2100186: defrostlines_003
+    2100188: gls_lightbulb_custom_02
+    2100190: gls_patternCH1_009_custom_amber
+    2100192: hl
+    2100194: none2
+    2100196: drl_hl
+    2100198: blkPlastic_MGL_lit
+    2100200: chrome_satin_101010FF
+    2100202: gls_sealedbeam_014
+    2100204: gls_lightbulb_custom_03
+    2100206: gls_litRidges_CH1_001
+    2100208: gls_frosted
+    2100210: seat_belt_003_rearSeats_a
+    2100212: metalPainted_alpha_bmw_emblem_001_rearSeats_a
+    2100214: stitch_009_rearSeats_a
+    2100216: blkLeather_smooth_LGL_rearSeats_a
+    2100218: seat_belt_002_rearSeats_a
+    2100220: aluminum_polishedSatin_rearSeats_a
+    2100222: backfacingGeo_rearSeats_a
+    2100224: metalPainted_alpha_pedal_004
+    2100226: metalPainted_alpha_pedal_001
+    2100228: blkPaint
+    2100230: mirrorcenter_rearviewMirror_a
+    2100232: blkPlastic_SGL_rearviewMirror_a
+    2100234: suede_001
+    2100236: plastic_smooth_colored_0A0A0AFF
+    2100238: EU_Plate_base
+    2100240: Screw
+    2100242: EU_Plate_Atlas
+    2100244: seat_belt_002
+    2100246: seat_belt_003
+    2100248: metalPainted_alpha_BMW_emblem_001
+    2100250: metalPainted_alpha_BMW_emblem_001_seatR_a
+    2100252: blkLeather_smooth_LGL
+    2100254: blkPlastic_textured_001
+    2100256: plastic_smooth_colored_customs
+    2100258: chrome_satin
+    2100260: BMW_badge_001_steeringWheel_a
+    2100262: BMW_emblem_003_steeringWheel_a
+    2100264: symbols_embossed_steeringWheel_a_030303FF
+    2100266: stitch_custom_steeringWheel_a_bmw_stitch_001_diff
+    2100268: blkLeather_smooth_steeringWheel_a
+    2100270: blkPlastic_SGL_steeringWheel_a
+    2100272: leather_LGL_steeringWheel_a
+    2100274: aluminum_polishedSatin_steeringWheel_a
+    2100276: chrome_steeringWheel_a
+    2100278: backfacingGeo_steeringWheel_a
+    2100280: LBK_smoothChrome_custom_brake
+    2100282: tl_brake
+    2100284: turn_8C8D8DFF
+    2100286: chrome_FFB25FFF
+    2100288: gls_ridgesCH1_003_9F2D00FF
+    2100290: fabric_008_0A0A0AFF
+    2100292: dranPlug
+    2100294: oil_pan
+    2100296: painted_allum
+    2100298: black_plastic
+    2100300: blkplastic_rgh_lgl
+    2100302: cast_aluminum
+    2100304: aluminum_satin_8C8D8DFF
+    2100306: aluminum_noise
+    2100308: aluminum_rgh
+    2100310: WHEEL
+    2100312: wheel_emblem_m_001_diff
+    2100314: wheel_badge_bmw_badge_diff
+    2100316: rim2
+    2100318: lip
+    2100320: lug_111112FF
+    2100322: hub
+    2100324: inner_rim_8C8D8DFF
+    2100326: rim_E8EAEBFF
+    2100328: valve_stem
+    2100330: black
+    2100332: rotor_edge_001
+    2100334: rotor_drilled_002
+    2100336: rotor_drilled_001
+    2100338: metalPainted_001_FFFFFFFF
+    2100340: BMW_Symbols_001
+    2100342: rubber_smooth
+    2100344: steel_383838FF
+    2100346: rotor_solid_001
+    2100348: rotor_drilled_026
+    2100350: rotor_edge_001_8C8D8DFF
+    2100352: CarPaint2
+    2100354: blkplastic_mgl_002
+    2100356: chrome_machined
+    2100358: fabric_008_373737FF
+    2100360: gls_2patternCH1
+    2100362: screw_017
+    2100364: plastic_smooth_colored_B60000FF
+    2100366: rivet_002
+    2100368: LBK_smoothChrome
+    2100370: gls_patternCH1_009_FF0B0099
+    2100372: gls_lightbulb
+    2100374: LBK_smoothChrome_0F1A0FFF
+    2100376: gls_ridgesCH1_003
+    2100378: gls_sealedbeam_014_FFFFFF99
+    2100380: LBK_smoothChrome_custom_reverse
+    2100382: LBK_standardCH1_003
+    2100384: gls_clear_59595999
+    2100386: badge
+    2100388: Radiator
+    2100390: symbols_embossed_engineBay_a
+    2100392: BlackPlastic_rgh_lgl
+    2100394: BlackPlastic_rgh_mgl
+    2100396: BlackPlastic_hgl
+    2100398: BlackPlastic_lgl
+    2100400: redPlastic
+    2100402: Metal_rgh_lgl_000000FF
+    2100404: BlackPlastic_sgl
+    2100406: steel_engineBay_a
+    2100408: Aluminum_polished_rgh
+    2100410: Rubber
+    2100412: blkPlastic_Braided
+    2100414: blkplastic_mgl_engineBay_a
+    2100416: metalPainted_001_engineBay_a
+    2100418: carpaint_engineBay_a
+    2100420: BlackPlastic_ridges
+    2100422: gls_window_engineBay_a
+    2100424: EmbossedRoughMetaB
+    2100426: EmbossedRoughMetalA
+    2100428: frame_engineBay_a
+    2300000: bmw_caliperlf_013
+    2300002: bmw_caliperlr_013
+    2300004: bmw_caliperrf_013
+    2300006: bmw_caliperrr_013
+    2300008: bmw_m6_13_wheellf
+    2300010: bmw_m6_13_wheellf001
+    2300012: bmw_m6_13_wheellf002
+    2300014: bmw_m6_13_wheellf003
+    2300016: bmw_rotorlf_013
+    2300018: bmw_rotorlr_013
+    2300020: bmw_rotorrf_013
+    2300022: bmw_rotorrr_013
+    2300024: bumperf_a
+    2300026: bumperfbadge_a
+    2300028: bumperfhoneycomb_a
+    2300030: bumperframef
+    2300032: bumperr_a
+    2300034: bumperrsidemarkers_a
+    2300036: centerconsolebezels_a
+    2300038: centerstackbezels_a
+    2300040: controlarmlf_a
+    2300042: controlarmlr_a
+    2300044: controlarmrf_a
+    2300046: controlarmrr_a
+    2300048: dashpad_a
+    2300050: dashstructure_a
+    2300052: doorcardlf_a
+    2300054: doorcardlf_a001
+    2300056: doorhandlelf_a
+    2300058: doorhandlelf_a001
+    2300060: doorjamblf_a
+    2300062: doorjamblf_a001
+    2300064: doorsill_a
+    2300066: engine_a
+    2300068: exhaust_a
+    2300070: f
+    2300072: f1
+    2300074: fenders_a
+    2300076: fendersbadge_a
+    2300078: fenderssidemarkers_a
+    2300080: floor_a
+    2300082: gaugecluster_a
+    2300084: glassctl_a
+    2300086: glassf_a
+    2300088: glassfint_a
+    2300090: glasslf_a
+    2300092: glasslfint_a
+    2300094: glasslhl_a
+    2300096: glasslr_a
+    2300098: glasslrint_a
+    2300100: glassltl_a
+    2300102: glassr_a
+    2300104: glassrf_a
+    2300106: glassrfint_a
+    2300108: glassrhl_a
+    2300110: glassrint_a
+    2300112: glassrr_a
+    2300114: glassrrint_a
+    2300116: glassrtl_a
+    2300118: headlightl_a
+    2300120: headlightlbulbs_a
+    2300122: headlightr_a
+    2300124: headlightrbulbs_a
+    2300126: hood_a
+    2300128: hoodliner_a__slod
+    2300130: //RootNode
+    2300132: mirrorbasel_a
+    2300134: mirrorbaser_a
+    2300136: Object002
+    2300138: overheadconsole_a
+    2300140: parcelshelf_a
+    2300142: pedals_a
+    2300144: pillartrim_a
+    2300146: plateeu_a
+    2300148: s
+    2300150: s1
+    2300152: seatbeltl_a
+    2300154: seatl_a
+    2300156: speakerdoorlf_a
+    2300158: speakerdoorlf_a001
+    2300160: speakers_a
+    2300162: steeing
+    2300164: t
+    2300166: t1
+    2300168: taillightc_a
+    2300170: taillightcbulbs_a
+    2300172: taillightchmsl_a
+    2300174: taillightl_a
+    2300176: taillightr_a
+    2300178: trunk_a
+    2300180: trunkbadge_a
+    2300182: trunkbay_a__slod
+    2300184: trunkliner_a__slod
+    2300186: undercarriage
+    2300188: visors_a
+    2300190: wheel_fl
+    2300192: wheel_fr
+    2300194: wheel_rl
+    2300196: wheel_rr
+    2300198: wing_a
+    2300200: wingmirrorl_a
+    2300202: wingmirrorr_a
+    2300204: wipers_a
+    3300000: bmw_caliperlf_013
+    3300002: bmw_caliperlr_013
+    3300004: bmw_caliperrf_013
+    3300006: bmw_caliperrr_013
+    3300008: bmw_m6_13_wheellf
+    3300010: bmw_m6_13_wheellf001
+    3300012: bmw_m6_13_wheellf002
+    3300014: bmw_m6_13_wheellf003
+    3300016: bmw_rotorlf_013
+    3300018: bmw_rotorlr_013
+    3300020: bmw_rotorrf_013
+    3300022: bmw_rotorrr_013
+    3300024: bumperf_a
+    3300026: bumperfbadge_a
+    3300028: bumperfhoneycomb_a
+    3300030: bumperframef
+    3300032: bumperr_a
+    3300034: bumperrsidemarkers_a
+    3300036: centerconsolebezels_a
+    3300038: centerstackbezels_a
+    3300040: controlarmlf_a
+    3300042: controlarmlr_a
+    3300044: controlarmrf_a
+    3300046: controlarmrr_a
+    3300048: dashpad_a
+    3300050: dashstructure_a
+    3300052: doorcardlf_a
+    3300054: doorcardlf_a001
+    3300056: doorhandlelf_a
+    3300058: doorhandlelf_a001
+    3300060: doorjamblf_a
+    3300062: doorjamblf_a001
+    3300064: doorsill_a
+    3300066: engine_a
+    3300068: exhaust_a
+    3300070: f
+    3300072: f1
+    3300074: fenders_a
+    3300076: fendersbadge_a
+    3300078: fenderssidemarkers_a
+    3300080: floor_a
+    3300082: gaugecluster_a
+    3300084: glassctl_a
+    3300086: glassf_a
+    3300088: glassfint_a
+    3300090: glasslf_a
+    3300092: glasslfint_a
+    3300094: glasslhl_a
+    3300096: glasslr_a
+    3300098: glasslrint_a
+    3300100: glassltl_a
+    3300102: glassr_a
+    3300104: glassrf_a
+    3300106: glassrfint_a
+    3300108: glassrhl_a
+    3300110: glassrint_a
+    3300112: glassrr_a
+    3300114: glassrrint_a
+    3300116: glassrtl_a
+    3300118: headlightl_a
+    3300120: headlightlbulbs_a
+    3300122: headlightr_a
+    3300124: headlightrbulbs_a
+    3300126: hood_a
+    3300128: hoodliner_a__slod
+    3300130: //RootNode
+    3300132: mirrorbasel_a
+    3300134: mirrorbaser_a
+    3300136: Object002
+    3300138: overheadconsole_a
+    3300140: parcelshelf_a
+    3300142: pedals_a
+    3300144: pillartrim_a
+    3300146: plateeu_a
+    3300148: s
+    3300150: s1
+    3300152: seatbeltl_a
+    3300154: seatl_a
+    3300156: speakerdoorlf_a
+    3300158: speakerdoorlf_a001
+    3300160: speakers_a
+    3300162: steeing
+    3300164: t
+    3300166: t1
+    3300168: taillightc_a
+    3300170: taillightcbulbs_a
+    3300172: taillightchmsl_a
+    3300174: taillightl_a
+    3300176: taillightr_a
+    3300178: trunk_a
+    3300180: trunkbadge_a
+    3300182: trunkbay_a__slod
+    3300184: trunkliner_a__slod
+    3300186: undercarriage
+    3300188: visors_a
+    3300190: wheel_fl
+    3300192: wheel_fr
+    3300194: wheel_rl
+    3300196: wheel_rr
+    3300198: wing_a
+    3300200: wingmirrorl_a
+    3300202: wingmirrorr_a
+    3300204: wipers_a
+    4300000: body
+    4300002: bumperf_a
+    4300004: bumperfbadge_a
+    4300006: bumperfhoneycomb_a
+    4300008: bumperframef
+    4300010: bumperr_a
+    4300012: bumperrsidemarkers_a
+    4300014: centerconsolebezels_a
+    4300016: centerstackbezels_a
+    4300018: dashpad_a
+    4300020: dashstructure_a
+    4300022: mirrorbasel_a
+    4300024: wingmirrorl_a
+    4300026: glasslfint_a
+    4300028: speakerdoorlf_a
+    4300030: doorcardlf_a001
+    4300032: doorhandlelf_a001
+    4300034: doorjamblf_a001
+    4300036: glasslf_a
+    4300038: doorsill_a
+    4300040: speakerdoorlf_a001
+    4300042: wingmirrorr_a
+    4300044: glassrf_a
+    4300046: mirrorbaser_a
+    4300048: doorcardlf_a
+    4300050: glassrfint_a
+    4300052: doorjamblf_a
+    4300054: doorhandlelf_a
+    4300056: exhaust_a
+    4300058: f1
+    4300060: Object002
+    4300062: f
+    4300064: fenders_a
+    4300066: fendersbadge_a
+    4300068: fenderssidemarkers_a
+    4300070: floor_a
+    4300072: gaugecluster_a
+    4300074: glassf_a
+    4300076: glassfint_a
+    4300078: glasslhl_a
+    4300080: glasslr_a
+    4300082: glasslrint_a
+    4300084: glassltl_a
+    4300086: glassr_a
+    4300088: glassrhl_a
+    4300090: glassrint_a
+    4300092: glassrr_a
+    4300094: glassrrint_a
+    4300096: glassrtl_a
+    4300098: headlightl_a
+    4300100: headlightlbulbs_a
+    4300102: headlightr_a
+    4300104: headlightrbulbs_a
+    4300106: overheadconsole_a
+    4300108: parcelshelf_a
+    4300110: pedals_a
+    4300112: pillartrim_a
+    4300114: plateeu_a
+    4300116: s
+    4300118: s1
+    4300120: seatbeltl_a
+    4300122: seatl_a
+    4300124: speakers_a
+    4300126: steeing
+    4300128: t
+    4300130: t1
+    4300132: taillightl_a
+    4300134: taillightr_a
+    4300136: trunkbay_a__slod
+    4300138: undercarriage
+    4300140: visors_a
+    4300142: wheel_fl
+    4300144: bmw_m6_13_wheellf
+    4300146: bmw_rotorlf_013
+    4300148: bmw_caliperlf_013
+    4300150: controlarmlf_a
+    4300152: wheel_fr
+    4300154: bmw_m6_13_wheellf002
+    4300156: bmw_rotorrf_013
+    4300158: bmw_caliperrf_013
+    4300160: controlarmrf_a
+    4300162: wheel_rl
+    4300164: bmw_m6_13_wheellf001
+    4300166: bmw_rotorlr_013
+    4300168: bmw_caliperlr_013
+    4300170: controlarmlr_a
+    4300172: wheel_rr
+    4300174: bmw_m6_13_wheellf003
+    4300176: bmw_rotorrr_013
+    4300178: bmw_caliperrr_013
+    4300180: controlarmrr_a
+    4300182: wipers_a
+    4300184: hood_a
+    4300186: hoodliner_a__slod
+    4300188: trunk_a
+    4300190: trunkliner_a__slod
+    4300192: taillightchmsl_a
+    4300194: taillightc_a
+    4300196: glassctl_a
+    4300198: wing_a
+    4300200: trunkbadge_a
+    4300202: taillightcbulbs_a
+    4300204: engine_a
+    7400000: Trunk
+    7400002: Open Hood
+    7400004: Doors
+    7400006: Idle
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aluminum_polished_rgh
+    second: {fileID: 2100000, guid: f6120994158a5694d98e4f10eed75599, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BMW_Symbols_001
+    second: {fileID: 2100000, guid: a1ce7cc4529c40241a4ea6623681fc33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BMW_badge_001
+    second: {fileID: 2100000, guid: 0af154ce6e2118646a14d302a704245d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BMW_badge_001_steeringWheel_a
+    second: {fileID: 2100000, guid: 49d92010ff80f6a41ae3e9cc7413765f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BMW_emblem_001
+    second: {fileID: 2100000, guid: 1484ed96c2bbce148934ea65ba6b79e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BMW_emblem_002_shifterAssy_a
+    second: {fileID: 2100000, guid: 198126b063e11c344a0dd8ffb6443976, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BMW_emblem_003_steeringWheel_a
+    second: {fileID: 2100000, guid: d3b01dc2117890847a4da40130657bd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BMW_emblem_019
+    second: {fileID: 2100000, guid: 0c6d0c242266ca445b98638bb2a5e4a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BMW_emblem_020
+    second: {fileID: 2100000, guid: f58bff208782ba64e970e55d13ba1c73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BMW_emblem_021
+    second: {fileID: 2100000, guid: b3f7b40ba08cb80468179522ce3c5666, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlackPlastic_hgl
+    second: {fileID: 2100000, guid: 462b29fe45dcc9048956bb593def1509, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlackPlastic_lgl
+    second: {fileID: 2100000, guid: a5be0cc5ee60a7e4c9410aa80f182f8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlackPlastic_rgh_lgl
+    second: {fileID: 2100000, guid: c819afcc258be444a81e2c7649864e64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlackPlastic_rgh_mgl
+    second: {fileID: 2100000, guid: cd1811085b0064448947e7032f8fe9d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlackPlastic_ridges
+    second: {fileID: 2100000, guid: 66ee6085f226f2e44822a410eb4a0660, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlackPlastic_sgl
+    second: {fileID: 2100000, guid: c46f7feeae467b94dbde2ec9cbd44f4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CarPaint2
+    second: {fileID: 2100000, guid: 81a1d2b603b393a4685964df9107d565, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EU_Plate_Atlas
+    second: {fileID: 2100000, guid: c1aa1a6e1d2933c4294e4a0e40d8bef9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EU_Plate_base
+    second: {fileID: 2100000, guid: 6c91fbce960ba134692c7ded8de912e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EmbossedRoughMetaB
+    second: {fileID: 2100000, guid: f0af5c256766bdd4086cd783c6b14244, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EmbossedRoughMetalA
+    second: {fileID: 2100000, guid: 49825d561ecdda14399cc1ea9a4cd403, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LBK_smoothChrome
+    second: {fileID: 2100000, guid: ff7c465ddc8608342b7d1857b7bccfa1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LBK_smoothChrome_0F1A0FFF
+    second: {fileID: 2100000, guid: 10ba5548fbc4a954992ea37acc35fe10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LBK_smoothChrome_custom_01
+    second: {fileID: 2100000, guid: 0050da93fbc56354b8f27cd8f4f7c1f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LBK_smoothChrome_custom_L
+    second: {fileID: 2100000, guid: c0809f341496741418460ac2eeb70962, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LBK_smoothChrome_custom_brake
+    second: {fileID: 2100000, guid: 614baba0445290848a86b301c9e798ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LBK_smoothChrome_custom_reverse
+    second: {fileID: 2100000, guid: a09189cfbb8767c44a799f6649d59cc7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LBK_standardCH1_003
+    second: {fileID: 2100000, guid: 62b94f117c776d64b9ff0b5049c0c5a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LBK_standardCH1_003_custom_turn
+    second: {fileID: 2100000, guid: 642b64a9e170a5b4789d7e30eb6887c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #75'
+    second: {fileID: 2100000, guid: 0f7885d195c1a9f40a7a5288ad8da0bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #967'
+    second: {fileID: 2100000, guid: 74427b2be811b6c4f940fb0f152881ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_rgh_lgl_000000FF
+    second: {fileID: 2100000, guid: 7711fa11782dc5c45ac26b2cc07db566, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Radiator
+    second: {fileID: 2100000, guid: ad6f1b489f8b8804aa37b6d78b9111ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Radiator_Grill
+    second: {fileID: 2100000, guid: 4a888b6ec940e0747ad0192996da4ef1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rubber
+    second: {fileID: 2100000, guid: ffc0dbe4e01185c4785530a572cf34dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Screw
+    second: {fileID: 2100000, guid: f7284bda3b662ad40a9eb78fafad0353, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel_010101FF
+    second: {fileID: 2100000, guid: 958ea7860f774af4ebb6054fd63e8646, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WHEEL
+    second: {fileID: 2100000, guid: e730bcbb3cb8bae48bf6bd89d23f8ed1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aluminum_noise
+    second: {fileID: 2100000, guid: 1f80c82e24fda0c4a9481691cdcfcec2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aluminum_noise_001
+    second: {fileID: 2100000, guid: 517033e1f385f3045801f72bdc9ab3d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aluminum_polishedSatin_dashStructureBezels_a
+    second: {fileID: 2100000, guid: b94d65825fbe34249bca8b8daa97bbbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aluminum_polishedSatin_rearSeats_a
+    second: {fileID: 2100000, guid: 5670dd6981f7cab4883b40154abd096d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aluminum_polishedSatin_steeringWheel_a
+    second: {fileID: 2100000, guid: 3a249fad7ab3ba14b860b5ee6c4a3de4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aluminum_polishedsatin
+    second: {fileID: 2100000, guid: 0122942841b45ef4d9f47d21cf12f5e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aluminum_rgh
+    second: {fileID: 2100000, guid: 3871018694f72434a86a950ddfb0dcba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aluminum_satin_8C8D8DFF
+    second: {fileID: 2100000, guid: 2d46d28b848b9594b86d07e368009aa5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: backfacingGeo
+    second: {fileID: 2100000, guid: f0535b9add9f926418c0a18eace4e6c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: backfacingGeo_doorLF_a
+    second: {fileID: 2100000, guid: a8eb6f46464078941acb02c914972896, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: backfacingGeo_rearSeats_a
+    second: {fileID: 2100000, guid: ce1298de4accefb40adbf25955168217, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: backfacingGeo_shifterAssy_a
+    second: {fileID: 2100000, guid: 9bb744eb1c36d3e40bd271272a6cefdb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: backfacingGeo_steeringWheel_a
+    second: {fileID: 2100000, guid: 04111d02a59bc724d97d4407f2c2d041, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: badge
+    second: {fileID: 2100000, guid: 050314e6243d7814984ac7d1aa13027b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black
+    second: {fileID: 2100000, guid: 116f1b00671e4bc4a8e1c7582767c86c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blackGlass
+    second: {fileID: 2100000, guid: 1d2078548f3052d4caabdd842ca81f5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black_plastic
+    second: {fileID: 2100000, guid: f17750c74d8d8014fa39dff68b4693a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blkLeather_MGL
+    second: {fileID: 2100000, guid: 67de068bbd17d5a449ac3bcad1582a3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blkLeather_bump_MGL
+    second: {fileID: 2100000, guid: 043e9d58b933b984bba7cfbbddae1b7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blkLeather_smooth_LGL
+    second: {fileID: 2100000, guid: d46607e50b93df341b256feaa6889766, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blkLeather_smooth_LGL_doorCardRF_a
+    second: {fileID: 2100000, guid: c25abd6a2ebaa70499f83db8b311118e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blkLeather_smooth_LGL_rearSeats_a
+    second: {fileID: 2100000, guid: e69879a2470a65b4c822b5d07e509ccc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blkLeather_smooth_MGL
+    second: {fileID: 2100000, guid: ed2bec088eaaa2a4d8aca5ceb49bef7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blkLeather_smooth_MGL_CenterConsoleStructure_a
+    second: {fileID: 2100000, guid: d252ce3a759deb7468967c1d90e8b413, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blkLeather_smooth_steeringWheel_a
+    second: {fileID: 2100000, guid: 60bd91ecf37cba2418e02abfed3ec0ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blkPaint
+    second: {fileID: 2100000, guid: 067dafe06b60b4f45978100a02c91e6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blkPlastic_Braided
+    second: {fileID: 2100000, guid: e947d57badd13d44198589ceb40f2dd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blkPlastic_MGL_lit
+    second: {fileID: 2100000, guid: 8fc8867c10f631a499d93bfe645d9a60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blkPlastic_NGL_010101FF
+    second: {fileID: 2100000, guid: a43f9c8f74892124395b7c668e0d645c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blkPlastic_SGL
+    second: {fileID: 2100000, guid: a6e69b227098f0740b472c1358a98b7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blkPlastic_SGL_rearviewMirror_a
+    second: {fileID: 2100000, guid: 4393558dee8f8ca449920b239118e5be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blkPlastic_SGL_shifterAssy_a
+    second: {fileID: 2100000, guid: af2d489158afaf6489d45b3a71657bc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blkPlastic_SGL_steeringWheel_a
+    second: {fileID: 2100000, guid: 4db6f28da658d5c4a977e4cb6db685b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blkPlastic_textured_001
+    second: {fileID: 2100000, guid: e3ba748976aa70b4da5268fb6210aac7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blkPlastic_textured_009
+    second: {fileID: 2100000, guid: 353e08b4401b44545a5ec58be1c78990, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blkPlastic_textured_009_steeringColumn_a
+    second: {fileID: 2100000, guid: 8b3c4ade1d401f74090762a26046c860, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blkleather_mgl_shifterAssy_a
+    second: {fileID: 2100000, guid: ae2d9ba6ae507ef43bd388e5003302b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blkpaint_lgl
+    second: {fileID: 2100000, guid: 981e5c6ef491ce9469dad47823dbf3a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blkplastic_lgl
+    second: {fileID: 2100000, guid: fa664e1ae4dcef34f9768d27191c754e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blkplastic_lgl_dashStructureBezels_a
+    second: {fileID: 2100000, guid: 83e3c98e6eca5654384cf9775a2f2f58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blkplastic_mgl
+    second: {fileID: 2100000, guid: 61806a042d10d8846a4ed9a1172d16de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blkplastic_mgl_002
+    second: {fileID: 2100000, guid: b08080f57a0ec684ea4e5f42e97acfc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blkplastic_mgl_doorLF_a
+    second: {fileID: 2100000, guid: 274ff40602503b543a4ea3b1da4db808, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blkplastic_mgl_engineBay_a
+    second: {fileID: 2100000, guid: b2b840187b6a22344b83b27ca219688a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blkplastic_rgh_lgl
+    second: {fileID: 2100000, guid: 922785e186ead004aa69c430816413c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: carbonfiber_001
+    second: {fileID: 2100000, guid: 62650bfbc83c9084498a0111d93f7570, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: carbonfiber_001_CenterConsoleStructure_a
+    second: {fileID: 2100000, guid: 527fdc78ee289164d91d040bc9e1ca8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: carpaint_E23B0EFF
+    second: {fileID: 2100000, guid: 10dfff7737bed7d4a8117c184242caea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: carpaint_engineBay_a
+    second: {fileID: 2100000, guid: 1ddc7701a0e29a640aeb50189223b97e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: carpaint_nocc
+    second: {fileID: 2100000, guid: 380bcf83d90f43c4abe2c4dd4bc65f39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: carpet_004
+    second: {fileID: 2100000, guid: b8f1097eeece27842adc31f483ebb519, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: carpet_004_CenterConsoleStructure_a
+    second: {fileID: 2100000, guid: 1450d75dea6d41e42812fed9128a5c64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cast_aluminum
+    second: {fileID: 2100000, guid: ec51cfcd97099044e9ca1a18c686f33b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chrome
+    second: {fileID: 2100000, guid: 82317b99616f9c04ea21536b8b1a8e28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chrome_FFB25FFF
+    second: {fileID: 2100000, guid: 1171eb6152f8f534c86ea6c03efe9095, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chrome_gaugePod_a
+    second: {fileID: 2100000, guid: d76a4eb9f5dc1bd46a6c691939b4a1f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chrome_grille_a_8C8D8DFF
+    second: {fileID: 2100000, guid: c253a459d576d7a4cb05ed22a337ccc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chrome_machined
+    second: {fileID: 2100000, guid: 23bdbdcf477abcd4bb7ced3da6ab085a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chrome_noise_001
+    second: {fileID: 2100000, guid: 7b0cdca9f78649241a1fdb99b56e1ede, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chrome_satin
+    second: {fileID: 2100000, guid: 7ab7c4926c17d6c4cb039868a28b5fa0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chrome_satin_101010FF
+    second: {fileID: 2100000, guid: a02b53c85448aa04189db53fc9e60a0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chrome_steeringWheel_a
+    second: {fileID: 2100000, guid: 56ff7c1ab9040fd4c9607a34d9594e24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: defrostlines_003
+    second: {fileID: 2100000, guid: 12f4892bb3e86d845a01cc67f7e1f762, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: digitalGauge
+    second: {fileID: 2100000, guid: cfe25e5ecb3bb8e49acee5098f518c8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: digitalGauge_shifterAssy_a
+    second: {fileID: 2100000, guid: 4b596b78fb6a46841b0fc9ad1a4cd0e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dranPlug
+    second: {fileID: 2100000, guid: f2453d092fe3f0a4fb0e955fa25cf496, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: drl_hl
+    second: {fileID: 2100000, guid: b06c49811bd84654cb823e5ab73e685a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fabric_008_0A0A0AFF
+    second: {fileID: 2100000, guid: 18de6b7c2dbcfa842ace495b923d48a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fabric_008_373737FF
+    second: {fileID: 2100000, guid: f18fcb50f7f26bb418789daa0cf0ecd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: frame
+    second: {fileID: 2100000, guid: 85109fa049ec25045b10d5f86acda7e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: frame_000000FF
+    second: {fileID: 2100000, guid: a59356f9262ddf74993b536682070e35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: frame_engineBay_a
+    second: {fileID: 2100000, guid: cf2bb35257ae557469bd8228b32ee11a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gauge_001_bmw_m6_13_gauges_diff
+    second: {fileID: 2100000, guid: 426269ec056024f408d5bc81f9a9f56e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gauge_needle_002_needles_a
+    second: {fileID: 2100000, guid: 43b57e3402a859b43ae450723434dd2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gls_2patternCH1
+    second: {fileID: 2100000, guid: ecac802bb1639fd40b630931cba3f3f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gls_clear
+    second: {fileID: 2100000, guid: 4288df039a171604ea6ccbcb92c8fc49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gls_clear_59595999
+    second: {fileID: 2100000, guid: 8f02ec68e3d61864fb76b31ba56ccbe2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gls_clear_FFB25FFF
+    second: {fileID: 2100000, guid: f315e45e2aeed6b4f9b549be7073652c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gls_clear_gaugePod_a
+    second: {fileID: 2100000, guid: 0e73fdcb2967f9b4e9aca261b86d32a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gls_edge
+    second: {fileID: 2100000, guid: 897ed1c4fa22bb14ea7bad54cd32b16a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gls_frosted
+    second: {fileID: 2100000, guid: 83e5891c46add14468da71bc942e9126, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gls_lightbulb
+    second: {fileID: 2100000, guid: 4b785eb3efeb1f646959c98b95e9867e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gls_lightbulb_custom_02
+    second: {fileID: 2100000, guid: 14afe739a344cc4478040c346f7435d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gls_lightbulb_custom_03
+    second: {fileID: 2100000, guid: 4815daa7e08775f4bad9755180e897a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gls_lightbulb_custom_L
+    second: {fileID: 2100000, guid: f247e73c5d1496243b07859e967bb01d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gls_litRidges_CH1_001
+    second: {fileID: 2100000, guid: 7bef6ccc7fa6fca409464561bb207139, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gls_patternCH1_003_4D000099
+    second: {fileID: 2100000, guid: f8f0a678c3fe22b49943ee9301fdb14c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gls_patternCH1_009_FF0B0099
+    second: {fileID: 2100000, guid: 5b414f01f1e67f6479ebcefa02351ccc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gls_patternCH1_009_FFFFFF99
+    second: {fileID: 2100000, guid: 9630770b0d8f385478f9d5d70263af45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gls_patternCH1_009_custom_amber
+    second: {fileID: 2100000, guid: 4e043dba0c07bf04f89c930f6d777ca5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gls_red_FF0B0099
+    second: {fileID: 2100000, guid: 23c3e4cecbf2a0f46a49a7c720dacdcb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gls_ridgesCH1_003
+    second: {fileID: 2100000, guid: a381dc891bf39bb4fb846b1c9954fc05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gls_ridgesCH1_003_9F2D00FF
+    second: {fileID: 2100000, guid: c6edf48a6ab15434c9b9fda94245dfa4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gls_sealedbeam_014
+    second: {fileID: 2100000, guid: 9fc39b8333bbb0946a6ba60d6a7838bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gls_sealedbeam_014_FFFFFF99
+    second: {fileID: 2100000, guid: d6177da8f1202bc4fa16de5db5034639, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gls_window
+    second: {fileID: 2100000, guid: 542e41aefb2681945be21fb960620f27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gls_window_engineBay_a
+    second: {fileID: 2100000, guid: becd69dbff6dba84ba857306fe1cc7cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gls_window_interior
+    second: {fileID: 2100000, guid: 11abc50c45f923846a4bd3e280735b85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hl
+    second: {fileID: 2100000, guid: 98cec33a9a22e4944a4f4ea86b4888b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hub
+    second: {fileID: 2100000, guid: 21a5796ce1e017048863f8ca34004b98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: inner_rim_8C8D8DFF
+    second: {fileID: 2100000, guid: 7055597e38781c64db5289f7cb5cb447, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: leather_LGL_steeringWheel_a
+    second: {fileID: 2100000, guid: 5399473e1d6b2d24aad6cbbcd4877d3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lip
+    second: {fileID: 2100000, guid: 748d820a199a99c449646b823309ba49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lug_111112FF
+    second: {fileID: 2100000, guid: 3aff88ea9abeb2041ba409e88c06568a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metalPainted_001_010101FF
+    second: {fileID: 2100000, guid: 67c3b38ece9738f49bda2e6ab151eea7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metalPainted_001_0B0B0BFF
+    second: {fileID: 2100000, guid: 90a18c436c1b73d429f3d093d1314701, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metalPainted_001_FFFFFFFF
+    second: {fileID: 2100000, guid: 7f77776b6fbc56648803bd315b4b6256, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metalPainted_001_engineBay_a
+    second: {fileID: 2100000, guid: da7dc61b90a36c2419f1c41e842e489c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metalPainted_alpha_BMW_Shifter_007_shifterAssy_a
+    second: {fileID: 2100000, guid: cda306db657967b4caba1c1995f1b5d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metalPainted_alpha_BMW_emblem_001
+    second: {fileID: 2100000, guid: a2037cc04c8527944ae0eb7fb3340228, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metalPainted_alpha_BMW_emblem_001_seatR_a
+    second: {fileID: 2100000, guid: 86aad92242d100941b5fc927b207b775, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metalPainted_alpha_PTN_grillDiamond_004_CenterConsoleStructure_a
+    second: {fileID: 2100000, guid: 6ee1a69f10926134b9628944a1179bb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metalPainted_alpha_PTN_grillHexagon_001
+    second: {fileID: 2100000, guid: cf1edee9a5bf0684dbc3fc801b500595, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metalPainted_alpha_PTN_grillHexagon_001_speakerDoorRF_a
+    second: {fileID: 2100000, guid: cfa3755288eb8f247990993e3dbe4b23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metalPainted_alpha_bmw_emblem_001_rearSeats_a
+    second: {fileID: 2100000, guid: 1ed7f43d801b71044ba452d58c9dc36f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metalPainted_alpha_pedal_001
+    second: {fileID: 2100000, guid: 5bd35049b0565c6498b3bf4c2e0dd712, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metalPainted_alpha_pedal_004
+    second: {fileID: 2100000, guid: 7ca66f53e924a4b43ba5cf55564b01af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mirrorRight
+    second: {fileID: 2100000, guid: 244cb9e5f264de547835232a14e4ace1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mirrorcenter_rearviewMirror_a
+    second: {fileID: 2100000, guid: c31ee2e1250362c48895a20017cd6eca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mirrorleft
+    second: {fileID: 2100000, guid: 86b741b8dc5d22340b950d188891c182, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: none2
+    second: {fileID: 2100000, guid: cca8a3ef61888a349a793e0d0afa73af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oil_pan
+    second: {fileID: 2100000, guid: f8748b9d2c07a4a4c86c4e252e0612ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: painted_allum
+    second: {fileID: 2100000, guid: 2e6c7663204b1714dbb65be46d9de145, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastic_smooth_colored_010101FF
+    second: {fileID: 2100000, guid: fe7e8e225f840de4fb79c349e3de1b39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastic_smooth_colored_030303FF
+    second: {fileID: 2100000, guid: 1f35413a11b38da468465f1ca82fc385, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastic_smooth_colored_0A0A0AFF
+    second: {fileID: 2100000, guid: 2de7e35d60f2e5243b5985c7cf153680, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastic_smooth_colored_B60000FF
+    second: {fileID: 2100000, guid: 91d01c33f339bd6409a6ed01de7c5131, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastic_smooth_colored_CenterConsoleStructure_a
+    second: {fileID: 2100000, guid: cfa3dc9cbe51dc34998926a2bc81f0fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastic_smooth_colored_customs
+    second: {fileID: 2100000, guid: b9f7313dbdce5d84b9922e6885878ecb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastic_smooth_colored_customs_CenterConsoleStructure_a
+    second: {fileID: 2100000, guid: 0f026e1a7c70dae4c813f410d88a04db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: redPlastic
+    second: {fileID: 2100000, guid: b1d405e3bfbd6c14c924e5783d115504, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rim2
+    second: {fileID: 2100000, guid: 7221d0b3c62b7c64a89a3f254ea02a52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rim_E8EAEBFF
+    second: {fileID: 2100000, guid: cff81d5ca820c944ab43b2799a1c1bc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rivet_002
+    second: {fileID: 2100000, guid: f1c56501a68e3fc438278a6849a3be6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rotor_drilled_001
+    second: {fileID: 2100000, guid: 570e50dab28f508468b4b56126737bb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rotor_drilled_002
+    second: {fileID: 2100000, guid: c2cc3a42f95b6a64bbbe8af58057b79c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rotor_drilled_026
+    second: {fileID: 2100000, guid: d9429004e9b49624e87791708bb795d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rotor_edge_001
+    second: {fileID: 2100000, guid: 520ab50e210903940882919960b2415f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rotor_edge_001_8C8D8DFF
+    second: {fileID: 2100000, guid: 1307f37dab0eaa844bbe26dcedd2ace4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rotor_solid_001
+    second: {fileID: 2100000, guid: 112da1b097df5724991c521bf5696b00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rubber_embossed_NML
+    second: {fileID: 2100000, guid: a47e7246732a7454e975235d56f15c0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rubber_smooth
+    second: {fileID: 2100000, guid: 1aee5fcd02586bc4c9a94a0186eff5b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rubbertrim
+    second: {fileID: 2100000, guid: 820bd579937a7854cb9000038541d667, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: screwPainted_012
+    second: {fileID: 2100000, guid: 266057661236c0142bb83ba45a04d5f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: screw_003
+    second: {fileID: 2100000, guid: c375790e11866a34491c17cd21f70771, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: screw_017
+    second: {fileID: 2100000, guid: 20e82bc27233fa440b24de08bd4eb0db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: seat_belt_002
+    second: {fileID: 2100000, guid: 209ea911edb01b9439c4dd81f47f16fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: seat_belt_002_rearSeats_a
+    second: {fileID: 2100000, guid: 2de83b279990cbc4b979e7a2f8429136, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: seat_belt_003
+    second: {fileID: 2100000, guid: 707ef11d33827ef4b80899623b4b58a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: seat_belt_003_rearSeats_a
+    second: {fileID: 2100000, guid: 513d7e8bf19b66b4fa2b4a529f75ee4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: steel
+    second: {fileID: 2100000, guid: b34aa92e3fbd10348960fcb3151bf6ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: steel_000000FF
+    second: {fileID: 2100000, guid: e26ca6b7348409246a60f05c56430ff5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: steel_383838FF
+    second: {fileID: 2100000, guid: a786fd593f648e0428d0623a57cddca0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: steel_engineBay_a
+    second: {fileID: 2100000, guid: 40d0aec6e7c245048b3433641fff33e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stitch_009
+    second: {fileID: 2100000, guid: fef115df33288144ba8bd84bfd827268, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stitch_009_CenterConsoleStructure_a
+    second: {fileID: 2100000, guid: 274a623b5f63db8449545c21a930fff2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stitch_009_rearSeats_a
+    second: {fileID: 2100000, guid: a6ceeb41ef5a0084b82d2dc545bd086c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stitch_custom_steeringWheel_a_bmw_stitch_001_diff
+    second: {fileID: 2100000, guid: 1ee085ac1205c3f469cc2a7722e0829c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suede_001
+    second: {fileID: 2100000, guid: 9a25def966584974991281d39409ef19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suede_002
+    second: {fileID: 2100000, guid: 3dbf2f14b65e9f74ea7d8b66dc593206, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: symbols
+    second: {fileID: 2100000, guid: 2dd34ba375921f545b516b3345ea1c9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: symbols_bmw_m6_13_doortags_001_diff
+    second: {fileID: 2100000, guid: 0a024b0c8f653a645b7367195cd225e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: symbols_dashStructureBezels_a
+    second: {fileID: 2100000, guid: d25746de11dc5114ca70058ca22efb1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: symbols_embossed
+    second: {fileID: 2100000, guid: 5c59d1b76cc4a9547a72aa9ea2e37fa6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: symbols_embossed_engineBay_a
+    second: {fileID: 2100000, guid: ed2cb7947e4f84b47b31108223a7c268, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: symbols_embossed_steeringWheel_a_030303FF
+    second: {fileID: 2100000, guid: 58dc415cf5d226d41ab09788167545f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tl_brake
+    second: {fileID: 2100000, guid: a7192f05a4ed33840a0aa565e7946597, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: turn_8C8D8DFF
+    second: {fileID: 2100000, guid: 2a5cd890d01a8c940b47317911e28c17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: undercarriage_001
+    second: {fileID: 2100000, guid: a6387f1cffc88164d9cbe123fc484989, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: valve_cap
+    second: {fileID: 2100000, guid: 0857149632decbb42ad60644d6a12f2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: valve_stem
+    second: {fileID: 2100000, guid: 1781af3013d99324bab3055258aa0132, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheel_badge_bmw_badge_diff
+    second: {fileID: 2100000, guid: 48593f1da1ea9524ab0492d22bec6252, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheel_emblem_m_001_diff
+    second: {fileID: 2100000, guid: f0d232ae7998eb047aa8767800ce18ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zeroBlack
+    second: {fileID: 2100000, guid: a2152b2be1c3de046acf8f72d893c4cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zeroBlack_010101FF
+    second: {fileID: 2100000, guid: 409ce8efe3083a7468c2316aa31c90c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zeroBlack_CenterConsoleStructure_a
+    second: {fileID: 2100000, guid: 71ee09dd7ff6b71408f6eeae2e81b82a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zeroBlack_vents_a
+    second: {fileID: 2100000, guid: 865caca3a8ca1e64198f3384469f83a3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Open Hood
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Trunk
+      takeName: Take 001
+      firstFrame: 25
+      lastFrame: 49
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Doors
+      takeName: Take 001
+      firstFrame: 50
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
